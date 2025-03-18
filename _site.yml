@@ -3,6 +3,8 @@ output_dir: "docs"
 navbar:
   title: "R Basic Functions"
   left:
+    - text: "index"
+      href: index.html
     - text: "Homepage"
       href: Homepage.html
     - text: "R Basic Functions"
