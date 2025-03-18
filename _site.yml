@@ -1,0 +1,9 @@
+name: "R Basic Functions"
+output_dir: "docs"
+navbar:
+  title: "R Basic Functions"
+  left:
+    - text: "Homepage"
+      href: Homepage.html
+    - text: "R Basic Functions"
+      href: "R_Basic_Functions.html"

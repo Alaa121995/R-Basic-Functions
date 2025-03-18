@@ -4,6 +4,10 @@ format: html
 editor: visual
 ---
 
+Welcome to R Basic Functions document!
+
+In this document, you will learn how to start up and buildup your work in R :)
+
 ### Importing a data-set
 
 <details>
